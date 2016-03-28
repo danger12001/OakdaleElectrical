@@ -1,0 +1,21 @@
+.navbar-brand>img {
+  height: 70px;
+  width: 20%;
+}
+#about {
+  border: 1px solid black;
+  height: 25px;
+  line-height: 5px;
+  width: 100px;
+  text-align: center;
+  margin-right: 10px;
+  
+}
+#contact {
+  border: 1px solid black;
+  height: 25px;
+  line-height: 20px;
+  width: 100px;
+  text-align: center;
+  font-size: 15px;
+}
